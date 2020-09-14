@@ -3,10 +3,10 @@
   A ideia de iniciar o projeto foi devido a  bobina de pulso da minha moto ter quebrado e devido ela n ser mais fabricada
 é a sua dificuldade de encontrar peças para a mesma, decidir criar o meu próprio CDI.
 
-<div class = "box">
+<div class = "box" float="left">
    <img src="https://drive.google.com/uc?export=view&id=1uNPNGEr_eZZ1yfOkmCtowzFnZrnbi0g1" width="380">
 </div>
-<div class = "box">
+<div class = "box" float="left">
    <img src="https://drive.google.com/uc?export=view&id=14dv0OtyFJAYJr2Z8cLEEWsXQN53cSgDs" width="380">
 </div>
 
