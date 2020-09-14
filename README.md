@@ -4,12 +4,11 @@
 é a sua dificuldade de encontrar peças para a mesma, decidir criar o meu próprio CDI.
 
 <div class = "box">
-    <img src="https://drive.google.com/uc?export=view&id=1uNPNGEr_eZZ1yfOkmCtowzFnZrnbi0g1" width="380">
+   <img src="https://drive.google.com/uc?export=view&id=1uNPNGEr_eZZ1yfOkmCtowzFnZrnbi0g1" width="380">
 </div>
 <div class = "box">
-    <img src="https://drive.google.com/uc?export=view&id=14dv0OtyFJAYJr2Z8cLEEWsXQN53cSgDs" width="380">
+   <img src="https://drive.google.com/uc?export=view&id=14dv0OtyFJAYJr2Z8cLEEWsXQN53cSgDs" width="380">
 </div>
-
 
 ## V 1.0
 - Ler o sinal enviado pela bobina de pulso e tratar o dado.
