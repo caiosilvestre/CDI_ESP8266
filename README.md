@@ -50,3 +50,8 @@ Com esse programa imitamos a bobina de pulso da moto.(Utilizei as portas do ESP8
 
 <img src="https://drive.google.com/uc?export=view&id=1Jx_dV1MzsSvxoWCeDKq5cFIpwHBXXvsJ" width="450">  <img src="https://drive.google.com/uc?export=view&id=129ywuzouK2ByC2FRgyxI6IcR32rpWUX6" width="450">
 - Escolhi fazer o programa num designer mais clean, por gosto e facilidade.
+### DIA 5 
+- Continuação com a programação da inteface.
+### DIA 6
+- Continuação com a programação da inteface.
+
