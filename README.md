@@ -41,6 +41,8 @@ Com esse programa imitamos a bobina de pulso da moto.(Utilizei as portas do ESP8
 - Criar um código para ler o sinal do magneto e calcular o momento da centelha.
 - O dia inteiro tentando implementar códigos, devido a minha falta de afinidade com o ESP8266 tive dificuldades para criar um código que funcione liso sem dar erros. Então parti para o modo bruto, que é entender como cada ferramenta dele funciona e a biblioteca(Ticker).
 ### DIA 3
+- Finalização do programa que possibilita a calcular o momento em q a centelha vai ser acionada de acordo com o avanço da ignição.
+- Inicio da pesquisa para fazer uma interface de monitoramento da moto por meio da conecção wifi do ESP.
 
 ### DIA 4
 - criar um programa com interface para melhorar a comunicação homem maquina.
