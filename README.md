@@ -67,4 +67,12 @@ Com esse programa imitamos a bobina de pulso da moto.(Utilizei as portas do ESP8
 ##### Soluções
 - Criar um filtro digital para filtrar os ruídos causados pela bobina, evitando a dupla ativação do LM324.
 - Tentar sincronizar o PMS do motor com o Microcontrolador, para isso será nescessário vários testes e visualizações para achar o PMS do motor.
+### DIA 7
+##### Testes
+- Testar o circuitos com LM324.
+##### Conclusão
+- Nenhum circuito funcionou utilizando o LM324.
+##### Soluções
+- Criar um circuito com Acoplador óptico, isolando assim os 2 circuitos.
+<img src="https://i.imgur.com/y19fMxx.jpg" width="450">
 
